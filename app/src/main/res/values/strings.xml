@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test151233</string>
+    <string name="login">Login</string>
+    <string name="cancel_action">Cancel</string>
+    <string name="welcome">Welcome</string>
+    <string name="incorrect_toast">Incorrect Password or Username!</string>
+</resources>
